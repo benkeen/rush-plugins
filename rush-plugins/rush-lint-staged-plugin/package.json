@@ -1,6 +1,6 @@
 {
-  "name": "rush-lint-staged-plugin",
-  "version": "0.1.6",
+  "name": "@benkeentestorg/rush-lint-staged-plugin",
+  "version": "0.1.7",
   "description": "Rush plugin for lint-staged",
   "keywords": [
     "rush",

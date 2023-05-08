@@ -8,6 +8,15 @@
       "shellCommand": "node <packageFolder>/lib/index.js",
       "safeForSimultaneousRushProcesses": true
     }
+  ],
+  "parameters": [
+    {
+      "argumentName": "MAX_ARG_LENGTH",
+      "associatedCommands": ["lint-staged"],
+      "description": "maximum length of the command-line argument string",
+      "longName": "--max-arg-length",
+      "parameterKind": "string",
+      "required": false
+    }
   ]
-  // "parameters": [],
 }
